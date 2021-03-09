@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "683543014632",
+    "project_id": "people-for-animals-dev",
+    "storage_bucket": "people-for-animals-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683543014632:android:ab4d73345f3e5f43f2ed5d",
+        "android_client_info": {
+          "package_name": "com.example.peopleforanimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683543014632-p3f2kat4av3vhtn7i6g656jcnqisj9o5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.peopleforanimal",
+            "certificate_hash": "e38fb88cbbec7dcf0e575b016512de91d14c9d22"
+          }
+        },
+        {
+          "client_id": "683543014632-957e703dbjhqc87n0co6a4eoih5nac4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfY4CuRNoRG-75CDpYBZ4HvPuqDrf_vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683543014632-957e703dbjhqc87n0co6a4eoih5nac4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683543014632-5epshid2o9mqm75fp1dn4832s5k36vjl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.peopleforanimal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
